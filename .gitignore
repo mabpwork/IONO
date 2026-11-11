@@ -20,3 +20,6 @@ ionolum_lib/srim_atom_energies.txt
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+
+# --- temporary files of Word / Office
+~$*
