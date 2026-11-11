@@ -23,3 +23,6 @@ __pycache__/
 
 # --- temporary files of Word / Office
 ~$*
+
+# --- user manual (kept only locally)
+ionolum_manual*.docx
