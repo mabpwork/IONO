@@ -1,0 +1,22 @@
+# --- local data: measurements, results and sessions are not sent to GitHub
+dados teste/
+*_ionospectra*.txt
+*_current_K6485_*.txt
+*_current_final_*.txt
+*_nobg.txt
+*_norm.txt
+*_iono_normalized_*.txt
+*_area_*.txt
+*.json
+ionolum_SR*.txt
+ndf_console.log
+
+# --- local settings of this computer
+python_path.txt
+.vscode/
+ionolum_lib/srim_atom_energies.txt
+
+# --- Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
